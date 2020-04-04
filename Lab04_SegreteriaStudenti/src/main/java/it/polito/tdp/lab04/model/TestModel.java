@@ -10,6 +10,8 @@ public class TestModel {
 		 * 	Write here your test model
 		 */
 
+		System.out.println(model.getElencoCorsi());
+		System.out.println(model.getElencoStudenti());
 	}
 
 }
